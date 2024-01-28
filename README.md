@@ -1,4 +1,4 @@
-Its sample Webpage about myself build using LOCOMOTIVE JS/css/hTML. 
+Its sample Webpage about myself build using LOCOMOTIVE JS/css/HTML. The main motive of building this webpage is to enhance and learn smooth scrolling :)
 
 its built in one day only....
 
