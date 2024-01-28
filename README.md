@@ -1,3 +1,6 @@
 Its sample Webpage about myself build using LOCOMOTIVE JS/css/hTML. 
 
 its built in one day only....
+
+![image](https://github.com/subrata107/myPortfolio/assets/84611722/e82a35b0-98ff-4c6f-b00d-f7836782fc30)
+
